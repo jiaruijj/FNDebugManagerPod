@@ -1,0 +1,6 @@
+use_frameworks!
+
+target 'FNDebugManagerPod_Example' do
+    pod 'FNDebugManagerPod', :path => '../'
+# pod 'FNDebugManagerPod', :svn => "http://svnserver01.fn.com/ios/fn-ios/FeiniuAPP_FNMerchant/ShareCode/FNDebugManagerPod"
+end

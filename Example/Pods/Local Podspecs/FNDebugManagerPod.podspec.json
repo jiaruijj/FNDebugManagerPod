@@ -1,0 +1,26 @@
+{
+  "name": "FNDebugManagerPod",
+  "version": "0.1.0",
+  "summary": "A short description of FNDebugManagerPod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "www.feiniu.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JR": "jiaruijj@163.com"
+  },
+  "source": {
+    "svn": "http://svnserver01.fn.com/ios/fn-ios/FNComponents/FNDebugManager/trunk"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source_files": "FNDebugManagerPod/Classes/**/*.{h,m}",
+  "resource_bundles": {
+    "FNDebugManagerPod": [
+      "FNDebugManagerPod/**/*.{cer,xib}"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+framework module FNDebugManagerPod {
+  umbrella header "FNDebugManagerPod-umbrella.h"
+
+  export *
+  module * { export * }
+}

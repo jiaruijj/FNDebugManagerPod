@@ -1,0 +1,16 @@
+PODS:
+  - FNDebugManagerPod (0.1.0)
+
+DEPENDENCIES:
+  - FNDebugManagerPod (from `../`)
+
+EXTERNAL SOURCES:
+  FNDebugManagerPod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FNDebugManagerPod: 213efd10eb760868e1a5ad59c9c9b6410123a0b2
+
+PODFILE CHECKSUM: 694ea9ff24bceb3e83086558b998347f741e5474
+
+COCOAPODS: 1.0.1

@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5dd1301e-c64b-41b1-99a8-f72833a5f314++1576",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "5dd1301e-c64b-41b1-99a8-f72833a5f314++1576" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5dd1301e-c64b-41b1-99a8-f72833a5f314++1576" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D79EDCE3-E7D8-4792-AECC-56B6CD709973",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5dd1301e-c64b-41b1-99a8-f72833a5f314++1576" : "FNComponents\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "FNDebugManagerPod",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "FNDebugManager\/trunk\/Example\/FNDebugManagerPod.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svnserver01.fn.com\/ios",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5dd1301e-c64b-41b1-99a8-f72833a5f314++1576"
+    }
+  ]
+}
